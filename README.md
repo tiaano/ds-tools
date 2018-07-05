@@ -6,3 +6,8 @@ Repository of online data science tools
 ### Data Science at the Command Line
 book: https://www.datascienceatthecommandline.com/chapter-2-getting-started.html  
 git: https://github.com/jeroenjanssens/data-science-at-the-command-line
+
+## R
+
+### R for Data Science
+book: http://r4ds.had.co.nz/
