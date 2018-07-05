@@ -1,13 +1,8 @@
 # Data Science Tools
 Repository of online data science tools
 
-## Bash
+## Main Resources
 
-### Data Science at the Command Line
-book: https://www.datascienceatthecommandline.com/chapter-2-getting-started.html  
-git: https://github.com/jeroenjanssens/data-science-at-the-command-line
+https://github.com/tiaano/ds-tools/main_resources.md
 
-## R
-
-### R for Data Science
-book: http://r4ds.had.co.nz/
+## Misc Links
